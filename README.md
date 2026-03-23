@@ -1,4 +1,6 @@
-Behavioral Dataset –Automation Disrupts, Explanations Restore: The Neural Signatures of Agency Loss and Recovery in Human-AI Interaction
+---
+
+# Behavioral Dataset –Automation Disrupts, Explanations Restore: The Neural Signatures of Agency Loss and Recovery in Human-AI Interaction
 
 ---
 
